@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [LofiAvery](https://github.com/lofiavery) (19 y.o) ! :sunglasses:
+I'm [LofiAvery](https://github.com/lofiavery) (19 years old) ! 
 
-I'd like to do project that has relation to anime. :ghost:
+I'd like to do project that has relation to anime.
 
 *Errors are red*<br>*Keywords are blue*
 
