@@ -1,16 +1,14 @@
-### Hi, I'm Avery! &nbsp;&#11157;&nbsp; Working in Neuroscience.
+### Hi, I'm Avery! 👋
 
 ----
 
-**At 19, I'm already passionate about understanding the human brain.**&nbsp;&nbsp;&nbsp;<sub>Occasionally, I have a boyfriend.</sub>
+At 19, I'm already passionate about understanding the human brain.&nbsp;&nbsp;&nbsp;<sub>Occasionally, I have a boyfriend.</sub>
 
-![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-&nbsp;&nbsp;&nbsp;
-![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=555&style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
