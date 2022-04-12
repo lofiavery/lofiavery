@@ -2,7 +2,7 @@
 
 ----
 
-**At 19, I'm already passionate about understanding the human brain.** <sub>Occasionally, I have a boyfriend.</sub>
+**At 19, I'm already passionate about understanding the human brain.**&nbsp;&nbsp;&nbsp;<sub>Occasionally, I have a boyfriend.</sub>
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
