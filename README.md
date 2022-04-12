@@ -1,8 +1,8 @@
-### Hi, I'm Avery! &nbsp;&#11157;&nbsp; I work on software/research in Neuroscience. Occasionally, I have a boyfriend.
+### Hi, I'm Avery! &nbsp;&#11157;&nbsp; Working in Neuroscience.
 
 ----
 
-**At 19, I'm already passionate about understanding the human brain.**
+**At 19, I'm already passionate about understanding the human brain.** <sub>Occasionally, I have a boyfriend.</sub>
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=555&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,15 +14,18 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
-**Senior App & Cloud Engineer** &#8594; specialised in Advanced Algorithmic.
+### Specializations:
+**Mathematician** &#8594; Probabilities, Complex Numbers, and Algorithmic.
 <br/>
-**Neuroscience researcher** &#8594; specialised in Biological Neurons and Neuropsychology.
+**Senior App & Cloud Engineer** &#8594; Mobile/Desktop App, and Distributed Network.
+<br/>
+**Senior AI Engineer** &#8594; Artificial Neuron, Computer Vision, and Deep Learning.
+<br/>
+**Neuroscience Researcher** &#8594; Neurocellular, Neurochemistry, Neurophysiology, and Neuropsychology.
 
 ----
 
-GitHub & Projects: [https://github.com/lofiavery](https://github.com/lofiavery)<br>Work's Quality: &#11088;&#11088;&#11088;&#11088;&#11088;
-
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lofiavery)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lofiavery/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31477rc7ctl6e7mfr5idxu5fhhym)
