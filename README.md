@@ -19,7 +19,7 @@ At 20, I'm already passionate about understanding the human brain.&nbsp;&nbsp;&n
 <br/>
 **Senior App & Cloud Engineer** &#8594; Mobile/Desktop App, and Distributed Network.
 <br/>
-**Senior AI Engineer** &#8594; Artificial Neuron, Computer Vision, and Deep Learning.
+**Senior AI Engineer** &#8594; Artificial Network, Computer Vision, and Deep Learning.
 <br/>
 **Neuroscience Researcher** &#8594; Neurocellular, Neurochemistry, Neurophysiology, and Neuropsychology.
 
